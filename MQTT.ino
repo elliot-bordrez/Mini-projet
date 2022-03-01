@@ -45,6 +45,7 @@ void loop() {
     Console.println(F("Repéré"));
     root["unit"] = "ON";
   }
+  root.prettyPrintTo(Console);
+  Console.println();
   delay(1000);
-  root.prettyPrintTo(client);
 }
