@@ -24,7 +24,7 @@
 
 /************************* Adafruit.io Setup *********************************/
 
-#define SERVER      "192.168.65.104"
+#define SERVER      "192.168.65.194"
 #define SERVERPORT  1883
 #define USERNAME    "user"
 #define PASSWORD "password"
