@@ -8,7 +8,7 @@
 /************************* Assetwolf Portal Setup *********************************/
 
 //Connection details found on the asset page
-#define SERVER "192.168.65.104"
+#define SERVER "192.168.65.194"
 #define PORT 1883
 #define USERNAME "username"
 #define PASSWORD "password"
